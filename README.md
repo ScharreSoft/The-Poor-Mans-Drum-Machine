@@ -11,16 +11,27 @@ Features:
 ·   High / Low Accent (adjustable for each voice individually)
 
 ·   Flam on all voices  (if flam is set to maximal, 32th notes can be played)
+
 ·   Shuffle on all voices (if shuffle is set to maximal, all even notes are delayed a 32th note)
-·   Create, play and edit drumtracks consisting of 48 different drum patterns. A drum track can have a length of 128 measures (patterns).
+
+·   Create, play and edit drumtracks consisting of 48 different drum patterns. A drum track can have a length of 128 measures (patterns)
+
 .   Pattern mode: create tracks by playing different patterns on the fly
+
 ·   Save up to 16 drum tracks on an EEPROM
+
 ·   Internal clock and external clockable (e.g. using LFO or MIDI)
-·   MIDI in  The module can be synced by an external MIDI clock (e.g. a DAW) to play a programmed rhythm,
+
+·   MIDI in  The module can be synced by an external MIDI clock (e.g. a DAW) to play a programmed rhythm
+
 ·   The module can play a MIDI drumtrack that was programmed in a DAW. (only tested with Ableton Live)
+
 ·   MIDI out:  A drumtrack can be recorded in a DAW. (This is somewhat rudimentary)
+
 ·   Customizable through simple confirguration file
+
 ·   Create random rhythm patterns:   (some of the random patterns are quite OK )
+
 ·   Random improvisation on an existing pattern
 
 
