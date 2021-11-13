@@ -5,8 +5,11 @@ The PM-909 is basically a 16 step sequencer that mimicks as much as posible the 
 
 
 Features:
+
 ·   Open Source
+
 ·   High / Low Accent (adjustable for each voice individually)
+
 ·   Flam on all voices  (if flam is set to maximal, 32th notes can be played)
 ·   Shuffle on all voices (if shuffle is set to maximal, all even notes are delayed a 32th note)
 ·   Create, play and edit drumtracks consisting of 48 different drum patterns. A drum track can have a length of 128 measures (patterns).
