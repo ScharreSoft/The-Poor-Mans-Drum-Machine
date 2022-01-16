@@ -14,7 +14,7 @@ Features:
 
 ·   Shuffle on all voices (if shuffle is set to maximal, all even notes are delayed a 32th note)
 
-·   Create, play and edit drumtracks consisting of 48 different drum patterns. A drum track can have a length of 128 measures (patterns)
+·   Create, play and edit drumtracks consisting of 48 different drum patterns. A drum track can have a length of 224 measures (patterns)
 
 .   Pattern mode: create tracks by playing different patterns on the fly
 
