@@ -194,7 +194,7 @@ byte i,j,k;
   lcd.setCursor(0,1); 
   for (i=1; i<17; i++) { lcd.print(F(".")); delay(100); }    
   lcd.setCursor(0,1);
-  lcd.print(F(" PM-909  v1.1.2 "));
+  lcd.print(F(" PM-909  v2.0.1 "));
 
  
   Wire.begin();    address = 0;       // initialize EEPROM
