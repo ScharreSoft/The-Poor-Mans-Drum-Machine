@@ -782,7 +782,7 @@ void Erase_EEPROM(){
 
     if (ENTER_Pressed) {
 
-       writeEEPROM(disk1, 3, 16);                                                 // This line only erases drum track 4
+//       writeEEPROM(disk1, 3, 0);                                                 // This line only erases drum track 4
 //       writeEEPROM(disk1, 7, 16);                                                // This line only un-erases drum track 8
       
       for (byte i=1; i<=64; i++) {                                                 
