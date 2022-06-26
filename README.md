@@ -18,7 +18,7 @@ Features:
 
 .   Pattern mode: create tracks by playing different patterns on the fly
 
-·   Save up to 64 drum tracks on an EEPROM
+·   Save up to 36 drum tracks on an EEPROM
 
 ·   Internal clock and external clockable (e.g. using LFO or MIDI)
 
