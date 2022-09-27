@@ -16,15 +16,21 @@ Features:
 
 ·   Create, play and edit drumtracks consisting of 48 different drum patterns. A drum track can have a length of 224 measures (patterns)
 
-.   Pattern mode: create tracks by playing different patterns on the fly
+·   Create patterns using Pattern Write mode and Tap Write mode
+
+.   Pattern Play mode: create tracks by playing different patterns on the fly
+
+·   Voice Mute mode: mute and un-mute voices on the fly for extra variation and improvisation
 
 ·   Save up to 36 drum tracks on an EEPROM
 
 ·   Internal clock and external clockable (e.g. using LFO or MIDI)
 
+·   External Reset input and Clock Out output
+
 ·   MIDI in  The module can be synced by an external MIDI clock (e.g. a DAW) to play a programmed rhythm
 
-·   The module can play a MIDI drumtrack that was programmed in a DAW. (only tested with Ableton Live)
+·   The module can play a MIDI drumtrack that was programmed in a DAW (with full velocity control). (only tested with Ableton Live)
 
 ·   MIDI out:  A drumtrack can be recorded in a DAW. (This is somewhat rudimentary)
 
