@@ -6,7 +6,7 @@ The Poor Mans Drum Machine (PMDM) is an Arduino based, open source 16 step drum 
 The PMDM originally started with the name of "Poor Mans TR-909". Because the PMDM can be used for more than just making a surrogate TR-909, I chose to rename the sequencer to "Poor Mans Drum Machine". The PMDM is essentially the same as the PM-909. From version 4.1.0 on, the name of Poor Mans Drum Machine (PMDM) will be used.  
 
 
-Features:
+# Features:
 
 · Open Source
 
