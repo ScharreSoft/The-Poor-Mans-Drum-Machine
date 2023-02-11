@@ -1,4 +1,4 @@
-# The-Poor-Man's-TR909
+# The-Poor-Man's-Drum Machine
 A poor man's version of the legendary Roland TR909 Drum Machine
 
 The PM-909 is basically a 16 step sequencer that mimicks as much as posible the TR909. The circuit can be used to control drum modules from the TR-909 drum machine. It can also be used to control any set of drum modules that accept 5 Volt triggers and CV (control voltages) from 0-5V for the accent input. 
