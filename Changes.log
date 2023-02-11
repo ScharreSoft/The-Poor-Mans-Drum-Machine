@@ -1,12 +1,20 @@
 
 
+v4.1 (feb 2023) 
+The name of Poor Man's TR-909 is changed to Poor Man's Drum machine. The PM-909 and PM-808 schematics are merged to a single PMDM schematic. The CV opampbuffers give a CV range of 0-15 Volt. If only 0-5 Volt CV range is needed two resistors should be omitted per opamp buffer. 
 
-v4.1 (feb 2023) The name of Poor Man's TR-909 is changed to Poor Man's Drum machine. The PM-909 and PM-808 schematics are merged to a single PMDM schematic. The CV opampbuffers give a CV range of 0-15 Volt. If only 0-5 Volt CV range is needed two resistors should be omitted per opamp buffer. 
 
-v4.0 (nov 2022) Added Clock Out, a Tempo potmeter and changed the iRef resistors on the TLC5940 to 7,5K. Added Tap Mode and Voice Mute Mode to the firmware. 
+v4.0 (nov 2022) 
+Added Clock Out, a Tempo potmeter and changed the iRef resistors on the TLC5940 to 7,5K. Added Tap Mode and Voice Mute Mode to the firmware. 
 
-v3.0 (june 2022) Upgraded from 256kB EEPROM to 1025kB EEPROM
+
+v3.0 (june 2022) 
+Upgraded from 256kB EEPROM to 1025kB EEPROM
  
-v2.0 (march 2022) Added an external reset input
+ 
+v2.0 (march 2022) 
+Added an external reset input
 
-v1.0 (jan 2022) Release of version 1
+
+v1.0 (jan 2022) 
+Release of version 1
