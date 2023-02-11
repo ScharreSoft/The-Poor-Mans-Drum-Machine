@@ -14,13 +14,16 @@ v4.0 (nov 2022)
 - Changed the iRef resistors on the TLC5940 to 7,5K 
 - Added Tap Mode to the firmware
 - Added Voice Mute Mode to the firmware
+- Several bug fixes
 
 v3.0 (june 2022) 
 - Upgraded from 256kB EEPROM to 1025kB EEPROM
+- Several bug fixes
  
  
 v2.0 (march 2022) 
 - Added an External Reset input
+- Several bug fixes
 
 
 v1.0 (jan 2022) 
