@@ -42,13 +42,9 @@ Features:
 
 · Random improvisation on an existing pattern
 
-By default, the firmware and the circuit are configured to control the 11 standard drum sounds that are found in the TR-909. Both firmware and hardware are easily adjusted to control upto 16 different drum modules of any kind, as long as they accept 5 volt triggers and 0-5 volt accent CV. If a higher level of CV is required (for instance, 15 volt CV when using TR-808 modules) the opamp buffers at the CV output should be adjusted to have a gain of 3.
 
 
- 
+By default, the firmware is configured to control the 11 standard drum sounds that are found in the TR-909. Both firmware and hardware are easily adjusted to control upto 16 different drum modules of any kind.
 
-The circuits are essentially the same, except for two differences: 
 
-1) The PMDM circuit has all the 16 voices drawn on the schematic (16 CV outputs and 16 trigger outputs), whereas the PM909 circuit only has 12. 
-2) The PMDM circuit generates accent CV's ranging from 0 - 15 Volt. If a range of 0 - 5 volt CV is sufficient, two resistors per voice can be omitted.
 
