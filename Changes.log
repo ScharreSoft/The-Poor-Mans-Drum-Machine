@@ -3,7 +3,7 @@
 v4.1 (feb 2023) 
 - The name of Poor Man's TR-909 (PM-909) is changed to Poor Man's Drum Machine (PMDM). 
 - The PM-909 and PM-808 schematics are merged into a single PMDM schematic. 
-- The CV opampbuffers give a CV range of 0-15 Volt. If only 0-5 Volt CV range is needed,
+- The CV opamp buffers give a CV range of 0-15 Volt. If only 0-5 Volt CV range is needed,
   two resistors should be omitted per opamp buffer. 
 
 
