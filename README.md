@@ -44,7 +44,7 @@ Features:
 
 
 
-By default, the firmware is configured to control the 11 standard drum sounds that are found in the TR-909. Both firmware and hardware are easily adjusted to control upto 16 different drum modules of any kind.
+By default, the firmware is configured to control the 11 standard drum sounds that are found in the TR-909. Both firmware and hardware are easily adjusted to control upto 16 different drum modules of any kind. For more information, see the Build Guide and the Owners Manual in the Documentation folder.
 
 
 
