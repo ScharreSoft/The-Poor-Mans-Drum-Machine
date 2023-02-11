@@ -3,7 +3,7 @@ An poor man's version of TR-909-like Drum Machines
 
 The Poor Mans Drum Machine (PMDM) is an Arduino based, open source 16 step drum sequencer that resembles the TR-X0X - like Rhythm Composers. The circuit can be used to control the drum modules from the TR-909 or TR-808 Rhythm Composers, but it can also be used to control any set of drum modules that accept 5 Volt triggers. The PMDM is highly customizable and can be tailored to fit your needs. 
 
-The PMDM originally started with the name of "Poor Mans TR-909". Because the PMDM can be used for more than just making a surrogate TR-909, I chose to rename the sequencer to "Poor Mans Drum Machine". The PMDM is essentially the same as the PM-909. From version 4.1.0 on, the name of Poor Mans Drum Machine (PMDM) will be used.  
+The PMDM originally started with the name of "Poor Mans TR-909". Because the PM-909 can be used for more than just making a Poor Man's TR-909, I chose to rename the sequencer to "Poor Mans Drum Machine". The PMDM is essentially the same as the PM-909. The only real difference is that the opamp buffers generate accent CV's ranging from 0 to 15 Volt. When CV's ranging from 0 to 5 Volt are needed, 2 resistors per opamp buffer should be omitted  (see the Build Guide). 
 
 
 # Features:
