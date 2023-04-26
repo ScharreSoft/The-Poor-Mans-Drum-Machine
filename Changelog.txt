@@ -1,5 +1,13 @@
 
 
+v4.1.1 (april 2023)
+- Added two parameters to the config file: USE_ACCENT and LED_Index. 
+  It is now possible to configure the PMDM to work without accents. This makes it possible to leave out one TLC5940 (U6), 
+  the opamp buffers (U1...U4) and all the associated components. (see build guide for more information).
+
+
+
+
 v4.1 (feb 2023) 
 - The name of Poor Man's 909 (PM-909) is changed to Poor Man's Drum Machine (PMDM). 
 - The PM-909 and PM-808 schematics are merged into a single PMDM schematic. 
