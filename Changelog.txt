@@ -1,11 +1,16 @@
 
 
+v4.2.2 (december 2024)
+- Enhanced the MIDI functionality
+  It is now possible to connect a MIDI controller (such as a MIDI keyboard) and to play along while the PMDM is playing.
+  Removed the MIDI In command from the Mode Menu (the PMDM is now always processing incoming MIDI data).
+  MIDI Out: Exporting to a MIDI file is enhanced.
+  
+
 v4.1.1 (april 2023)
 - Added two parameters to the config file: USE_ACCENT and LED_Index. 
   It is now possible to configure the PMDM to work without accents. This makes it possible to leave out one TLC5940 (U6), 
   the opamp buffers (U1...U4) and all the associated components. (see build guide for more information).
-
-
 
 
 v4.1 (feb 2023) 
@@ -17,7 +22,6 @@ v4.1 (feb 2023)
   two resistors should be omitted per opamp buffer (see schematic for more information). 
   
 
-
 v4.0 (nov 2022) 
 - Removed the HIHAT_SELECT pin
 - Added a Clock Out
@@ -26,6 +30,7 @@ v4.0 (nov 2022)
 - Added Tap Mode to the firmware
 - Added Voice Mute Mode to the firmware
 - Several bug fixes
+
 
 v3.0 (june 2022) 
 - Upgraded from 256kB EEPROM to 1025kB EEPROM
